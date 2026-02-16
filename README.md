@@ -1,10 +1,12 @@
 # Reddit Post Moderation System
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ### *Automated Moderation Pipeline using Random Forest & Gemini 2.0 Flash*
 
 This project implements an end-to-end Machine Learning pipeline to classify Reddit posts as **Safe** or **NSFW** (Not Safe For Work). It leverages SQL for analysis, Random Forest for high-precision classification, and **Google's Gemini 2.0 Flash API** to handle complex edge cases that traditional models miss.
 
-## Tech Stack
+## 🛠️Tech Stack
 * **Languages:** Python, SQL (PandasQL)
 * **Libraries:** Scikit-Learn, NLTK, Pandas, NumPy, Matplotlib, Seaborn
 * **GenAI:** Google Generative AI (Gemini 2.0 Flash)
